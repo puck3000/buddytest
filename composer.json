@@ -1,5 +1,7 @@
 {
   "require": {
+    "aelvan/imager": "^2.1",
+    "aelvan/preparse-field": "^1.1",
     "craftcms/cms": "^3.0.0",
     "vlucas/phpdotenv": "^3.4.0"
   },
